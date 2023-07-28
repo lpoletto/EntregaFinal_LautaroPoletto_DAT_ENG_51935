@@ -20,8 +20,6 @@ El objetivo principal es extraer información del catálogo de Spotify sobre el 
 
 ## Requisitos
 
-[Enumera aquí todos los requisitos necesarios para ejecutar y utilizar tu proyecto. Pueden incluir software específico, bibliotecas, versiones de Python, etc. Proporciona instrucciones claras para que los usuarios puedan preparar su entorno correctamente.]
-
 1. Registrarse en la API de [Spotify](https://developer.spotify.com/documentation/web-api/tutorials/getting-started) siguiendo los pasos que te proporciona. Con esto obtendremos los siguientes datos:
     - CLIENT_ID
     - CLIENT_SECRECT
