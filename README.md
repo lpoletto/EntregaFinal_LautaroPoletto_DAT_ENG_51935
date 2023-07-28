@@ -6,7 +6,7 @@
 
 Repositorio para el proyecto final del curso Data Engineering en [CODERHOUSE](https://www.coderhouse.com/).
 
-En este proyecto, llevaremos a cabo un proceso ETL (Extract, Transform, Load) utilizando datos extraídos de la WEB API de [Spotify](https://developer.spotify.com/documentation/web-api/tutorials/getting-started). A continuación, tranforma los datos y los carga en AWS Redshift. Todo el proceso estará automatizado mediante el uso de Apache Airflow.
+En este proyecto, llevaremos a cabo un proceso ETL (Extract, Transform, Load) utilizando datos extraídos de la WEB API de [Spotify](https://developer.spotify.com/documentation/web-api/tutorials/getting-started). A continuación, transforma los datos y los carga en AWS Redshift. Todo el proceso estará automatizado mediante el uso de Apache Airflow.
 
 El objetivo principal es extraer información del catálogo de Spotify sobre el top 10 de las mejores canciones de un artista por país.
 
