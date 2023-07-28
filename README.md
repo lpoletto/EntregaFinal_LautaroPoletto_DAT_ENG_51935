@@ -25,6 +25,7 @@ El objetivo principal es extraer información del catálogo de Spotify sobre el 
     - CLIENT_SECRECT
 2. Tener instalado [Docker](https://www.docker.com/) en tu laptop.
 3. Tener una cuenta en AWS o reemplazar las conexiones por una DB en localhost, por ejemplo, PostgreSQL.
+4. Generar una contraseña para aplicaciones de terceros en [Gmail](https://support.google.com/mail/answer/185833?hl=es-419&ref_topic=3394217&sjid=13457642915339293739-SA)
 
 ## Instalación
 
