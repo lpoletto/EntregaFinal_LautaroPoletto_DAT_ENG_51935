@@ -16,7 +16,7 @@ from datetime import datetime, timedelta
 REDSHIFT_SCHEMA = env["REDSHIFT_SCHEMA"]
 
 QUERY_CREATE_TABLE = f"""
-CREATE TABLE IF NOT EXISTS {REDSHIFT_SCHEMA}.popular_songs_test(
+CREATE TABLE IF NOT EXISTS {REDSHIFT_SCHEMA}.popular_songs(
     id_song VARCHAR(250) NOT NULL,
     song_name VARCHAR(250) NOT NULL,
     artist VARCHAR(250) NOT NULL,
