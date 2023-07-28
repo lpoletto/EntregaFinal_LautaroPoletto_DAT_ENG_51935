@@ -6,9 +6,15 @@
 
 Repositorio para el proyecto final del curso Data Engineering en [CODERHOUSE](https://www.coderhouse.com/).
 
-En este proyecto, llevaremos a cabo un proceso ETL (Extract, Transform, Load) utilizando datos extraídos de la WEB API de [Spotify](https://developer.spotify.com/documentation/web-api/tutorials/getting-started). A continuación, transforma los datos y los carga en AWS Redshift. Todo el proceso estará automatizado mediante el uso de Apache Airflow.
+Este proyecto tiene como propósito llevar a cabo un proceso ETL (Extract, Transform, Load) utilizando datos extraídos de la WEB API de [Spotify](https://developer.spotify.com/documentation/web-api/tutorials/getting-started). A través de este proceso, se extraerá información relevante del catálogo de Spotify sobre el top 10 de las mejores canciones de un artista por país. Luego, se realizará una transformación de los datos para adecuarlos al formato necesario y finalmente se cargarán en AWS Redshift, una base de datos en la nube de Amazon.
 
-El objetivo principal es extraer información del catálogo de Spotify sobre el top 10 de las mejores canciones de un artista por país.
+### Automatización con Apache Airflow
+
+Todo el flujo de trabajo ETL se encuentra automatizado mediante el uso de Apache Airflow, una plataforma de orquestación de tareas. Airflow permite programar, monitorear y ejecutar las diferentes etapas del proceso ETL de manera eficiente y confiable. Además, en caso de que alguna de las tareas falle, se ha configurado un sistema de alertas por correo electrónico para notificar a los responsables y tomar acciones rápidas para solucionar cualquier problema.
+
+### Objetivo
+
+El objetivo principal de este proyecto es proporcionar una solución automatizada para obtener y analizar datos del catálogo de Spotify. Con el proceso ETL implementado, podremos obtener información valiosa sobre las mejores canciones de un artista en diferentes países, lo que puede ser útil para la toma de decisiones y el análisis de tendencias musicales.
 
 ## Tabla de Contenidos
 
