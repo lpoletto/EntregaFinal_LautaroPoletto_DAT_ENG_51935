@@ -140,7 +140,7 @@ Este proyecto se encuentra bajo la [Licencia MIT](LICENSE.txt)
     
 
 ## Contacto
-Hola 👋 ¿Cómo estás? Si te gustó este proyecto y quieres saber más, puedes contactarme por algunas de estas redes 🙂
+Hola 👋 ¿Cómo estás? Si te gustó este proyecto y quieres saber más, puedes contactarme por algunas de estas redes
 
 ✉ lautaropoletto@gmail.com
 
